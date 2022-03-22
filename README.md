@@ -9,7 +9,7 @@
  
 
 
-**Objetivos do porjeto**
+**Objetivos do projeto**
 
 Aplicar os conceitos de POO vistos em aulas durante o primeiro módulo do programa.
 
